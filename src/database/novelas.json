@@ -17,104 +17,278 @@
   },
   {
     "id": 4,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Maria Mercedes",
+    "foto": "https://tenovelaseries.loja2.com.br/img/caed9bb6d1ec307a364e17498fb1db4c.jpg",
+    "ano": 1996
   },
   {
     "id": 5,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Marimar",
+    "foto": "https://staticr1.blastingcdn.com/media/photogallery/2020/4/15/660x290/b_1200x526/thalia-protagonista-de-marimar-divulgacaotelevisa_2441425.jpg",
+    "ano": 1997
   },
   {
     "id": 6,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Maria do Bairro",
+    "foto": "https://cdn.portalonorte.com.br/upload/dn_arquivo/2021/06/share-medium-1.jpg",
+    "ano": 1997
   },
   {
     "id": 7,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Luz Clarita",
+    "foto": "https://3.bp.blogspot.com/-gml6jhk3BlE/VIti4-6q8kI/AAAAAAAAIJM/jfElVVFkASs/s1600/Luz%2BClarita.jpg",
+    "ano": 1999
   },
   {
     "id": 8,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "A Usurpadora",
+    "foto": "https://br.web.img3.acsta.net/pictures/15/12/14/17/56/528860.jpg",
+    "ano": 1999
   },
   {
     "id": 9,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "O Privilégio de Amar",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3NphDrBc17OIe56uqnq4RgzJEu5roDtXw-NV4RgwVoybCpIUgFjXq0IjnfZ2wFUkeCk&usqp=CAU",
+    "ano": 2000
   },
   {
     "id": 10,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "O Diário de Daniela",
+    "foto": "https://observatoriodatv.uol.com.br/wp-content/uploads/2018/05/o_diario-de-daniela.jpg",
+    "ano": 2000
   },
   {
     "id": 11,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Kassandra",
+    "foto": "https://i.pinimg.com/564x/01/01/14/0101144749e46ceb69f397c0963cefee.jpg",
+    "ano": 2000
   },
   {
     "id": 12,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "A Mentira",
+    "foto": "https://novelas.redenoticia.com.br/imagens/2016/03/a_mentira_sbt_resumo_novela.jpg",
+    "ano": 2000
   },
   {
     "id": 13,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Sigo Te Amando",
+    "foto": "http://1.bp.blogspot.com/-FkPNkjfF1L4/VozhCGXpBBI/AAAAAAAAAAg/wUxCWXK9HZc/s1600/Tesigoamando-Poster.jpg",
+    "ano": 2000
   },
   {
     "id": 14,
-    "nome": ,
-    "foto": ,
-    "ano":
-  }
+    "nome": "Esmeralda",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9CqNrNwyBGlWhB1Ic4gyOU3c2mwtxLIBRiDcjc3wyDffWMJ0QGwReZUjRZBs_lSgSqg&usqp=CAU",
+    "ano": 2001
+  },
   {
     "id": 15,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Maria Isabel",
+    "foto": "https://1.bp.blogspot.com/-_VszZNFCnAI/UwXYw6gCw5I/AAAAAAAAFEE/1MDuJk2Yvao/s1600/Maria+Isabel.bmp",
+    "ano": 2001
   },
   {
     "id": 16,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Coração Selvagem",
+    "foto": "http://2.bp.blogspot.com/-2I2rJhV_h2Y/Vpk78xAQtrI/AAAAAAAACyE/YhF_63RWCus/s1600/cs-banner-757503.jpg",
+    "ano": 2001
   },
   {
     "id": 17,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Gotinha de Amor",
+    "foto": "https://assistironline.net/wp-content/uploads/2021/05/assistir-Gotinha-de-Amor-online.jpg.png",
+    "ano": 2001
   },
   {
     "id": 18,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Camila",
+    "foto": "https://3.bp.blogspot.com/-hD0IAYIwdRs/UwYll6106jI/AAAAAAAAFHM/uH0iFfUkFZ0/s1600/Camila.jpg",
+    "ano": 2001
   },
   {
     "id": 19,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "nome": "Café com Aroma de Mulher",
+    "foto": "https://observatoriodatv.uol.com.br/wp-content/uploads/2018/06/cafe.jpg",
+    "ano": 2001
   },
   {
-    "id": 20,
-    "nome": ,
-    "foto": ,
-    "ano":
+    "id": 21,
+    "nome": "Amigos Para Sempre",
+    "foto": "https://4.bp.blogspot.com/-UYT4r_pegPY/UwNawpEF88I/AAAAAAAAFAY/YdQ_hguSK8A/s1600/Amigos+para+siempre.jpg",
+    "ano": 2001
+  },
+  {
+    "id": 22,
+    "nome": "Serafim",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxZ9nvetut5GV7V_wDwtESZpJehmDzPKSV23IKF4HYU7q2i5bC07QGeam8hM4il-B7kU&usqp=CAU",
+    "ano": 2001
+  },
+  {
+    "id": 23,
+    "nome": "Por Teu Amor",
+    "foto": "https://3.bp.blogspot.com/-XsR-LxCJLVk/W_Qzq-gmJSI/AAAAAAAALns/x4VeMFXqMlI4wor3mPWMEMY9mpeTHmWfgCLcBGAs/s1600/InShot_20181120_141947120.jpg",
+    "ano": 2001
+  },
+  {
+    "id": 24,
+    "nome": "Carinha de Anjo",
+    "foto": "https://observatoriodatv.uol.com.br/wp-content/uploads/2021/07/carinha-de-anjo-mexico-2-e1627418443834-1024x767.jpg",
+    "ano": 2002
+  },
+  {
+    "id": 25,
+    "nome": "Rosalinda",
+    "foto": "https://br.web.img3.acsta.net/pictures/17/05/04/20/22/391062.jpg",
+    "ano": 2001
+  },
+  {
+    "id": 26,
+    "nome": "Abraça-me Muito Forte",
+    "foto": "https://1.bp.blogspot.com/-vkOu_mBjsHY/WOEY3G2jP1I/AAAAAAAAX2s/EK4rGOh3HMojGo-Kod5haMa89krj0tYNwCLcB/s640/abrac3a7a-me-muito-forte.jpg",
+    "ano": 2002
+  },
+  {
+    "id": 27,
+    "nome": "A Alma Não Tem Cor",
+    "foto": "https://2.bp.blogspot.com/-goLF74TOqZQ/UwNE2awR-ZI/AAAAAAAAE_c/bI1sDe0L724/s1600/A+alma+n%C3%A3o+tem+cor.jpg",
+    "ano": 2002
+  },
+  {
+    "id": 28,
+    "nome": "Maria Belém",
+    "foto": "https://static.wikia.nocookie.net/sbtpedia/images/2/23/Maria_Bel%C3%A9m.jpg/revision/latest?cb=20171219180632&path-prefix=pt-br",
+    "ano": 2002
+  },
+  {
+    "id": 29,
+    "nome": "Amigas e Rivais",
+    "foto": "https://static.wikia.nocookie.net/sbtpedia/images/6/6d/Amigas_e_Rivais_%282002%29.jpg/revision/latest?cb=20171227211517&path-prefix=pt-br",
+    "ano": 2003
+  },
+  {
+    "id": 30,
+    "nome": "Cúmplices de um Resgate",
+    "foto": "https://staticr1.blastingcdn.com/media/photogallery/2015/11/24/660x290/b_1200x680/belinda-e-daniela-lujan-deram-vida-as-gemeas_508081.jpg",
+    "ano": 2003
+  },
+  {
+    "id": 31,
+    "nome": "Manancial",
+    "foto": "https://4.bp.blogspot.com/-JHoIjKl98zs/UzBhRRiQzxI/AAAAAAAAGC8/wKf1BjfPJEs/s1600/Manancial.jpg",
+    "ano": 2003
+  },
+  {
+    "id": 32,
+    "nome": "Primeiro Amor... a Mil Por Hora",
+    "foto": "https://1.bp.blogspot.com/-N7AX-JiokfQ/We_PCXGYIeI/AAAAAAAAYI8/nUvd6VJxRuMmg_i7KzuDLg7LDKl099l-wCLcBGAs/s640/1596797.jpg",
+    "ano": 2003
+  },
+  {
+    "id": 33,
+    "nome": "No Limite da Paixão",
+    "foto": "http://1.bp.blogspot.com/-sXdA3cQXRYQ/Tlp7dQg_34I/AAAAAAAAB5k/bHVkcF1XrU0/s1600/nolimitedapaixao.jpg",
+    "ano": 2004
+  },
+  {
+    "id": 34,
+    "nome": "Amor Real",
+    "foto": "https://i.ytimg.com/vi/PpPIRzpuPzw/sddefault.jpg",
+    "ano": 2004
+  },
+  {
+    "id": 35,
+    "nome": "Menina Amada Minha",
+    "foto": "https://1.bp.blogspot.com/-gQtXfifHEdI/WaWLzDNNmWI/AAAAAAAAYDc/6t-oHCKc1PU1udrj-cI8MwGplQlZezn5ACLcBGAs/s640/logo.jpg",
+    "ano": 2004
+  },
+  {
+    "id": 36,
+    "nome": "A Outra",
+    "foto": "https://notinovelas.com/wp-content/uploads/2007/02/la-otra-poster.jpg",
+    "ano": 2004
+  },
+  {
+    "id": 37,
+    "nome": "Rubi",
+    "foto": "https://1.bp.blogspot.com/-9P2-aDpi6YY/Vopkvd2H73I/AAAAAAAAKwM/e9hDDFp0Qpk/s1600/Rubi.jpg",
+    "ano": 2005
+  },
+  {
+    "id": 38,
+    "nome": "A Madrasta",
+    "foto": "https://1.bp.blogspot.com/-AOsB_AHcnuo/UwNsktebFeI/AAAAAAAAFBA/U1yZT85WViQ/s1600/A+madrasta.jpg",
+    "ano": 2005
+  },
+  {
+    "id": 39,
+    "nome": "Cuidado com o Anjo",
+    "foto": "http://1.bp.blogspot.com/-8IXbX2JSCtc/Vlxd8lmHXlI/AAAAAAAAKo8/KsUeMIqi8Wo/s1600/Cuidado%2Bcom%2Bo%2BAnjo.jpg",
+    "ano": 2013
+  },
+  {
+    "id": 40,
+    "nome": "Sortilégio",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-DBEy9T3cOp_OMxkjdkR-39OQDsmFilfGQhK81GK6Pr2-umOiV83llaU1BXgylc3Upw&usqp=CAU",
+    "ano": 2015
+  },
+  {
+    "id": 41,
+    "nome": "Coração Indomável",
+    "foto": "https://1.bp.blogspot.com/-cusD-9CnlzU/Wk1xQxRN6VI/AAAAAAAASfQ/YRVoZzutHY4JVgiKXbMbVKjQKcPdsgcUwCLcBGAs/s640/Coraz%25C3%25B3n%2BIndomable%2B441.jpg",
+    "ano": 2015
+  },
+  {
+    "id": 42,
+    "nome": "A Dona",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI5-7hmSgw1JBBUcpFIXeO5osOI_yDp4TOxRS6XAHJKdRJgw7M2ENAH_C4X0eoCWCXXDU&usqp=CAU",
+    "ano": 2016
+  },
+  {
+    "id": 43,
+    "nome": "Teresa",
+    "foto": "https://observatoriodatv.uol.com.br/wp-content/uploads/2015/10/Teresa-Elenco.jpg",
+    "ano": 2016
+  },
+  {
+    "id": 44,
+    "nome": "Abismo de Paixão",
+    "foto": "https://1.bp.blogspot.com/-bfQwjYjN9iQ/XWx_3i5KAXI/AAAAAAAADc8/cRAH4Ow_XmUfLKed8mXz3x6SuOhfK8hawCLcBGAs/s1600/ABISMO%2BDE%2BPAIXAO.jpg",
+    "ano": 2016
+  },
+  {
+    "id": 45,
+    "nome": "Amanhã é Para Sempre",
+    "foto": "https://portalovertube.com/wp-content/uploads/2018/01/Amanh%C3%A3-%C3%A9-para-sempre.jpg",
+    "ano": 2018
+  },
+  {
+    "id": 46,
+    "nome": "Três vezes Ana",
+    "foto": "https://img.elo7.com.br/product/zoom/3FD2EEF/tres-vezes-ana-papel-e-cia.jpg",
+    "ano": 2016
+  },
+   {
+    "id": 47,
+    "nome": "O Que a Vida me Roubou",
+    "foto": "https://novelas.redenoticia.com.br/imagens/2020/07/o-que-a-vida-me-roubou-resumo-sinopse.jpg",
+    "ano": 2017
+  },
+  {
+    "id": 48,
+    "nome": "Triunfo do Amor",
+    "foto": "https://observatoriodatv.uol.com.br/wp-content/uploads/2021/06/triunfo-do-amor-sbt.jpg",
+    "ano": 2020
+  },
+  {
+    "id": 49,
+    "nome": "A que não podia amar",
+    "foto": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e5/LA-QUE-NO-PODIA-AMAR-WEB-11.jpg/300px-LA-QUE-NO-PODIA-AMAR-WEB-11.jpg",
+    "ano": 2019
+  },
+  {
+    "id": 50,
+    "nome": "Rebelde",
+    "foto": "https://upload.wikimedia.org/wikipedia/pt/6/6f/Rebelde_Single.jpg",
+    "ano": 2006
   }
 ]
