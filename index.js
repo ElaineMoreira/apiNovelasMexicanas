@@ -9,4 +9,8 @@ app.get('/novelas', (req, res) => {
   return res.json(novelas)
 });
 
+app.post('/addNovelas', (req, res) => {
+ // para adicionar novela
+});
+
 app.listen(PORT, () => console.log(`Online na porta ${PORT}`));
